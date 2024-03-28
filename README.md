@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋
+## Projects
+| Название | Описание |
+| ----------- | ----------- |
+| [SimpleBashUtils](https://github.com/Yusuf-corinnem/SimpleBashUtils)    |  Работа с базовыми утилитами Bash по работе с текстами. Собственная реализация утилит cat и grep на языке C. |
+
 
 <!--
 **Yusuf-corinnem/Yusuf-corinnem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
