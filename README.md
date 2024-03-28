@@ -21,6 +21,8 @@
 | [Linux](https://github.com/Yusuf-corinnem/Linux) | Знакомство с администрированием и VirtualBox. |
 | [LinuxNetwork](https://github.com/Yusuf-corinnem/LinuxNetwork) | Работа с сетями и VirtualBox. |
 | [SimpleDocker](https://github.com/Yusuf-corinnem/SimpleDocker) | Изучение docker, dockle, docker compose. |
+| [CI/CD](https://github.com/Yusuf-corinnem/CI-CD) | Изучение CI, CD, реализация получения уведомлений в Telegram. |
+
 <!--
 **Yusuf-corinnem/Yusuf-corinnem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
