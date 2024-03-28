@@ -19,6 +19,7 @@
 | Название | Описание |
 | ----------- | ----------- |
 | [Linux](https://github.com/Yusuf-corinnem/Linux) | Знакомство с администрированием и VirtualBox. |
+| [LinuxNetwork](https://github.com/Yusuf-corinnem/LinuxNetwork) | Работа с сетями и VirtualBox. |
 <!--
 **Yusuf-corinnem/Yusuf-corinnem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
