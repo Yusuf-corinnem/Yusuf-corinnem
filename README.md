@@ -4,6 +4,8 @@
 | ----------- | ----------- |
 | [SimpleBashUtils](https://github.com/Yusuf-corinnem/SimpleBashUtils)    |  Работа с базовыми утилитами Bash по работе с текстами. Реализация утилит cat и grep. |
 | [String+](https://github.com/Yusuf-corinnem/StringPlus) | Реализация библиотеки string.h с некоторыми дополнениями(sprintf). |
+| [Math](https://github.com/Yusuf-corinnem/Math) | Реализация библиотеки math.h. |
+| [Decimal](https://github.com/Yusuf-corinnem/Decimal) | Реализация библиотеки decimal.h. Эта библиотека добавляет возможность работы с типом «decimal», который отсутствует в стандарте языка. |
 
 
 <!--
