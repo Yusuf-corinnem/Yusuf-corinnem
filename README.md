@@ -15,6 +15,10 @@
 | [Matrix+](https://github.com/Yusuf-corinnem/MatrixPlus) | Реализация библиотеки `matrix.h`. для бработки числовых матриц используя ООП. |
 | [Containers](https://github.com/Yusuf-corinnem/Containers) | Реализация основных стандартных контейнерных классов языка С++: `list` (список), `map` (словарь), `queue` (очередь), `set` (множество), `multiset` (мультимножество), `stack` (стек), `vector` (вектор), `array` (массив). |
 
+## DevOps
+| Название | Описание |
+| ----------- | ----------- |
+| [Linux](https://github.com/Yusuf-corinnem/Linux) | Знакомство с администрированием и VirtualBox. |
 <!--
 **Yusuf-corinnem/Yusuf-corinnem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
