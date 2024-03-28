@@ -7,6 +7,7 @@
 | [Math](https://github.com/Yusuf-corinnem/Math) | Реализация библиотеки math.h. |
 | [Decimal](https://github.com/Yusuf-corinnem/Decimal) | Реализация библиотеки decimal.h. Эта библиотека добавляет возможность работы с типом «decimal», который отсутствует в стандарте языка. |
 | [Matrix](https://github.com/Yusuf-corinnem/Matrix) | Реализация библиотеки matrix.h. для бработки числовых матриц. |
+| [SmartCalc](https://github.com/Yusuf-corinnem/SmartCalc) | Реализация расширенной версии обычного калькулятора. Дополнения: возможность вычисления арифметических выражений с учетом приоритетов и математечиских функций, построение графиков с использованием переменной x, кредитный калькулятор. |
 
 <!--
 **Yusuf-corinnem/Yusuf-corinnem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
