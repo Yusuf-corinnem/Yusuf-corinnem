@@ -6,7 +6,7 @@
 | [String+](https://github.com/Yusuf-corinnem/StringPlus) | Реализация библиотеки string.h с некоторыми дополнениями(sprintf). |
 | [Math](https://github.com/Yusuf-corinnem/Math) | Реализация библиотеки math.h. |
 | [Decimal](https://github.com/Yusuf-corinnem/Decimal) | Реализация библиотеки decimal.h. Эта библиотека добавляет возможность работы с типом «decimal», который отсутствует в стандарте языка. |
-
+| [Matrix](https://github.com/Yusuf-corinnem/Matrix) | Реализация библиотеки matrix.h. для бработки числовых матриц. |
 
 <!--
 **Yusuf-corinnem/Yusuf-corinnem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
